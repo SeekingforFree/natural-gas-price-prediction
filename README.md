@@ -2,4 +2,4 @@ This is a project including a natural language processing and neural network cla
 
 Here is the CNN-LSTM Neural network structure diagram.
 
-![image](https://github.com/llallala/mmm/images/model.png)
+![image](https://github.com/llallala/mmm/tree/master/images/model.png)
